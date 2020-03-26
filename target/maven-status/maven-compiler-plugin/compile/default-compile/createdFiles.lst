@@ -1,0 +1,4 @@
+com\nagarro\nagp\core\CoreHomePage.class
+com\nagarro\nagp\elements\Pages.class
+com\nagarro\nagp\exceptions\BrowserInitizationException.class
+com\nagarro\nagp\elements\PageElements.class

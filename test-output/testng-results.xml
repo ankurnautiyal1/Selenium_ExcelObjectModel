@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16722" started-at="2020-03-26T03:04:42Z" finished-at="2020-03-26T03:04:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16722" started-at="2020-03-26T03:04:42Z" finished-at="2020-03-26T03:04:59Z">
+      <class name="com.nagarro.nagp.tests.TestHomePage">
+        <test-method status="PASS" signature="setupSuite()[pri:0, instance:com.nagarro.nagp.tests.TestHomePage@7823a2f9]" name="setupSuite" is-config="true" duration-ms="22998" started-at="2020-03-26T08:34:19Z" finished-at="2020-03-26T08:34:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method status="PASS" signature="categorySearchItemCompare()[pri:0, instance:com.nagarro.nagp.tests.TestHomePage@7823a2f9]" name="categorySearchItemCompare" duration-ms="16711" started-at="2020-03-26T08:34:42Z" finished-at="2020-03-26T08:34:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- categorySearchItemCompare -->
+        <test-method status="PASS" signature="killBrowser()[pri:0, instance:com.nagarro.nagp.tests.TestHomePage@7823a2f9]" name="killBrowser" is-config="true" duration-ms="692" started-at="2020-03-26T08:34:59Z" finished-at="2020-03-26T08:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killBrowser -->
+      </class> <!-- com.nagarro.nagp.tests.TestHomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
